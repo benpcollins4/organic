@@ -291,6 +291,10 @@ li:hover, li:focus {
           transform: scale(1.5);
 }
 
+.color-change-start {
+  background: #ff0000;
+}
+
 .section1 {
   height: 50vh;
 }
